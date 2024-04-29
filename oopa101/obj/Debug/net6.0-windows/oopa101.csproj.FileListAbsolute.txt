@@ -1,0 +1,16 @@
+C:\Users\nasty\source\repos\oopa101\bin\Debug\net6.0-windows\oopa101.exe
+C:\Users\nasty\source\repos\oopa101\bin\Debug\net6.0-windows\oopa101.deps.json
+C:\Users\nasty\source\repos\oopa101\bin\Debug\net6.0-windows\oopa101.runtimeconfig.json
+C:\Users\nasty\source\repos\oopa101\bin\Debug\net6.0-windows\oopa101.dll
+C:\Users\nasty\source\repos\oopa101\bin\Debug\net6.0-windows\oopa101.pdb
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\oopa101.Form1.resources
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\oopa101.csproj.GenerateResource.cache
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\oopa101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\oopa101.AssemblyInfoInputs.cache
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\oopa101.AssemblyInfo.cs
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\oopa101.csproj.CoreCompileInputs.cache
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\oopa101.dll
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\refint\oopa101.dll
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\oopa101.pdb
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\oopa101.genruntimeconfig.cache
+C:\Users\nasty\source\repos\oopa101\obj\Debug\net6.0-windows\ref\oopa101.dll
