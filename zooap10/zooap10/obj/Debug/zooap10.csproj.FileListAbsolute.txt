@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\bin\Debug\zooap10.exe.config
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\bin\Debug\zooap10.exe
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\bin\Debug\zooap10.pdb
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\obj\Debug\zooap10.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\obj\Debug\zooap10.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\obj\Debug\zooap10.Form1.resources
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\obj\Debug\zooap10.Properties.Resources.resources
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\obj\Debug\zooap10.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\obj\Debug\zooap10.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\obj\Debug\zooap10.exe
+C:\Users\andre\Desktop\oopa10\zooap10\zooap10\obj\Debug\zooap10.pdb
